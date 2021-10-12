@@ -1,0 +1,2111 @@
+{
+    "authors": [
+        {
+            "id": 1,
+            "first_name": "Ash",
+            "last_name": "O'Fallon",
+            "nationality": "Uganda"
+        },
+        {
+            "id": 2,
+            "first_name": "Catina",
+            "last_name": "Gillopp",
+            "nationality": "Russia"
+        },
+        {
+            "id": 3,
+            "first_name": "Mariya",
+            "last_name": "Pennings",
+            "nationality": "China"
+        },
+        {
+            "id": 4,
+            "first_name": "Geraldine",
+            "last_name": "Stollmeyer",
+            "nationality": "Poland"
+        },
+        {
+            "id": 5,
+            "first_name": "Egan",
+            "last_name": "Orsay",
+            "nationality": "Poland"
+        },
+        {
+            "id": 6,
+            "first_name": "Morton",
+            "last_name": "Mughal",
+            "nationality": "China"
+        },
+        {
+            "id": 7,
+            "first_name": "Gaile",
+            "last_name": "Martill",
+            "nationality": "Lebanon"
+        },
+        {
+            "id": 8,
+            "first_name": "Caye",
+            "last_name": "Hurley",
+            "nationality": "Poland"
+        },
+        {
+            "id": 9,
+            "first_name": "Christoper",
+            "last_name": "Roskrug",
+            "nationality": "Vietnam"
+        },
+        {
+            "id": 10,
+            "first_name": "Matilde",
+            "last_name": "Posselow",
+            "nationality": "Philippines"
+        },
+        {
+            "id": 11,
+            "first_name": "Brita",
+            "last_name": "Branford",
+            "nationality": "Syria"
+        },
+        {
+            "id": 12,
+            "first_name": "Kaile",
+            "last_name": "Banaszczyk",
+            "nationality": "Poland"
+        },
+        {
+            "id": 13,
+            "first_name": "Nessy",
+            "last_name": "Spinige",
+            "nationality": "Poland"
+        },
+        {
+            "id": 14,
+            "first_name": "Mufinella",
+            "last_name": "Grevile",
+            "nationality": "Poland"
+        },
+        {
+            "id": 15,
+            "first_name": "Gilli",
+            "last_name": "Delgardo",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 16,
+            "first_name": "Lorna",
+            "last_name": "Hirjak",
+            "nationality": "Indonesia"
+        },
+        {
+            "id": 17,
+            "first_name": "Rafaellle",
+            "last_name": "Basill",
+            "nationality": "Palestinian Territory"
+        },
+        {
+            "id": 18,
+            "first_name": "Viviyan",
+            "last_name": "Bines",
+            "nationality": "Cuba"
+        },
+        {
+            "id": 19,
+            "first_name": "Delphinia",
+            "last_name": "Doveston",
+            "nationality": "China"
+        },
+        {
+            "id": 20,
+            "first_name": "Philbert",
+            "last_name": "Trood",
+            "nationality": "Russia"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "author_id": 8,
+            "title": "Cat Returns, The (Neko no ongaeshi)",
+            "year": 1992
+        },
+        { "id": 2, "author_id": 12, "title": "Nine Lives", "year": 1980 },
+        { "id": 3, "author_id": 3, "title": "Septième juré, Le", "year": 1975 },
+        {
+            "id": 4,
+            "author_id": 3,
+            "title": "Suriyothai (a.k.a. Legend of Suriyothai, The)",
+            "year": 1963
+        },
+        {
+            "id": 5,
+            "author_id": 4,
+            "title": "Sissi: The Young Empress (Sissi - Die Junge Kaiserin)",
+            "year": 1952
+        },
+        { "id": 6, "author_id": 7, "title": "Soldier", "year": 2020 },
+        { "id": 7, "author_id": 3, "title": "Chicago", "year": 2013 },
+        {
+            "id": 8,
+            "author_id": 19,
+            "title": "Garfield's Halloween Adventure",
+            "year": 1988
+        },
+        { "id": 9, "author_id": 2, "title": "Forgotten", "year": 1975 },
+        { "id": 10, "author_id": 11, "title": "The Humanoid", "year": 1994 },
+        {
+            "id": 11,
+            "author_id": 5,
+            "title": "Ordinary Decent Criminal",
+            "year": 2001
+        },
+        { "id": 12, "author_id": 4, "title": "Trog", "year": 1963 },
+        {
+            "id": 13,
+            "author_id": 1,
+            "title": "Shadowing the Third Man",
+            "year": 1950
+        },
+        {
+            "id": 14,
+            "author_id": 14,
+            "title": "Gorgeous Hussy, The",
+            "year": 1989
+        },
+        { "id": 15, "author_id": 12, "title": "Room, The", "year": 1997 },
+        { "id": 16, "author_id": 16, "title": "Haunted, The", "year": 1995 },
+        { "id": 17, "author_id": 1, "title": "Concert, Le", "year": 2015 },
+        {
+            "id": 18,
+            "author_id": 8,
+            "title": "Send a Bullet (Manda Bala)",
+            "year": 2010
+        },
+        {
+            "id": 19,
+            "author_id": 11,
+            "title": "Looking for Maria Sanchez",
+            "year": 2006
+        },
+        { "id": 20, "author_id": 15, "title": "American Beauty", "year": 2003 },
+        {
+            "id": 21,
+            "author_id": 3,
+            "title": "In the Heart of the Sea",
+            "year": 1968
+        },
+        {
+            "id": 22,
+            "author_id": 20,
+            "title": "Fun and Fancy Free",
+            "year": 1983
+        },
+        { "id": 23, "author_id": 7, "title": "Excuse My Dust", "year": 1958 },
+        {
+            "id": 24,
+            "author_id": 14,
+            "title": "Night We Never Met, The",
+            "year": 1983
+        },
+        {
+            "id": 25,
+            "author_id": 18,
+            "title": "Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite)",
+            "year": 1996
+        },
+        {
+            "id": 26,
+            "author_id": 11,
+            "title": "Cairo Station (a.k.a. Iron Gate, The) (Bab el hadid)",
+            "year": 1985
+        },
+        {
+            "id": 27,
+            "author_id": 17,
+            "title": "I Capture the Castle",
+            "year": 2000
+        },
+        {
+            "id": 28,
+            "author_id": 18,
+            "title": "My Man (Mon homme)",
+            "year": 1967
+        },
+        {
+            "id": 29,
+            "author_id": 7,
+            "title": "Cave of the Yellow Dog, The",
+            "year": 2009
+        },
+        { "id": 30, "author_id": 10, "title": "Buccaneer, The", "year": 1951 },
+        { "id": 31, "author_id": 13, "title": "Miss Julie", "year": 2017 },
+        {
+            "id": 32,
+            "author_id": 8,
+            "title": "De nieuwe Wildernis",
+            "year": 1957
+        },
+        {
+            "id": 33,
+            "author_id": 2,
+            "title": "I Can Get It for You Wholesale",
+            "year": 1973
+        },
+        { "id": 34, "author_id": 12, "title": "Phase 7", "year": 2011 },
+        {
+            "id": 35,
+            "author_id": 17,
+            "title": "Bowery at Midnight",
+            "year": 1989
+        },
+        { "id": 36, "author_id": 6, "title": "Love Happy", "year": 1999 },
+        { "id": 37, "author_id": 2, "title": "Ted", "year": 1977 },
+        { "id": 38, "author_id": 10, "title": "From Hell", "year": 2014 },
+        {
+            "id": 39,
+            "author_id": 19,
+            "title": "Nasty Old People",
+            "year": 2016
+        },
+        { "id": 40, "author_id": 11, "title": "Madagascar", "year": 1982 },
+        {
+            "id": 41,
+            "author_id": 13,
+            "title": "Visitor Q (Bizita Q)",
+            "year": 2017
+        },
+        { "id": 42, "author_id": 4, "title": "Conserva Acabada", "year": 1978 },
+        {
+            "id": 43,
+            "author_id": 11,
+            "title": "Darwin Awards, The",
+            "year": 1967
+        },
+        { "id": 44, "author_id": 17, "title": "Pretty Bird", "year": 1956 },
+        {
+            "id": 45,
+            "author_id": 10,
+            "title": "Song Remains the Same, The",
+            "year": 2011
+        },
+        {
+            "id": 46,
+            "author_id": 12,
+            "title": "Griffin and Phoenix",
+            "year": 1989
+        },
+        { "id": 47, "author_id": 12, "title": "Love Exposure", "year": 2015 },
+        {
+            "id": 48,
+            "author_id": 8,
+            "title": "Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie)",
+            "year": 1992
+        },
+        {
+            "id": 49,
+            "author_id": 13,
+            "title": "Moonlight and Cactus",
+            "year": 1956
+        },
+        {
+            "id": 50,
+            "author_id": 17,
+            "title": "Law of the Lawless (Brigada)",
+            "year": 1952
+        },
+        {
+            "id": 51,
+            "author_id": 6,
+            "title": "I Want a Dog for Christmas, Charlie Brown",
+            "year": 1965
+        },
+        {
+            "id": 52,
+            "author_id": 5,
+            "title": "Ballistic: Ecks vs. Sever",
+            "year": 1999
+        },
+        { "id": 53, "author_id": 18, "title": "Kansas", "year": 1951 },
+        {
+            "id": 54,
+            "author_id": 14,
+            "title": "California Suite",
+            "year": 2010
+        },
+        {
+            "id": 55,
+            "author_id": 12,
+            "title": "Unmistaken Child",
+            "year": 1984
+        },
+        { "id": 56, "author_id": 9, "title": "Hot Fuzz", "year": 1996 },
+        {
+            "id": 57,
+            "author_id": 6,
+            "title": "Terror's Advocate (Avocat de la terreur, L')",
+            "year": 1993
+        },
+        { "id": 58, "author_id": 16, "title": "Country Life", "year": 1962 },
+        { "id": 59, "author_id": 16, "title": "Ursul", "year": 1971 },
+        { "id": 60, "author_id": 9, "title": "Babylon 5", "year": 2019 },
+        { "id": 61, "author_id": 4, "title": "Regret to Inform", "year": 2007 },
+        {
+            "id": 62,
+            "author_id": 16,
+            "title": "Laaga Chunari Mein Daag: Journey of a Woman",
+            "year": 2003
+        },
+        {
+            "id": 63,
+            "author_id": 14,
+            "title": "Violette (Violette Nozière)",
+            "year": 1964
+        },
+        {
+            "id": 64,
+            "author_id": 12,
+            "title": "Garbo the Spy (Garbo: El espía)",
+            "year": 1986
+        },
+        {
+            "id": 65,
+            "author_id": 16,
+            "title": "Life of Another, The (La vie d'une autre)",
+            "year": 2004
+        },
+        { "id": 66, "author_id": 1, "title": "Billy Bathgate", "year": 2018 },
+        {
+            "id": 67,
+            "author_id": 10,
+            "title": "House of Angels (Änglagård)",
+            "year": 1969
+        },
+        {
+            "id": 68,
+            "author_id": 5,
+            "title": "K-19: The Widowmaker",
+            "year": 1955
+        },
+        { "id": 69, "author_id": 19, "title": "Rock Star", "year": 1963 },
+        { "id": 70, "author_id": 11, "title": "Calamari Union", "year": 1993 },
+        { "id": 71, "author_id": 9, "title": "Men of War", "year": 2000 },
+        { "id": 72, "author_id": 2, "title": "Wing Commander", "year": 1972 },
+        {
+            "id": 73,
+            "author_id": 11,
+            "title": "Man You Had in Mind, The",
+            "year": 1983
+        },
+        {
+            "id": 74,
+            "author_id": 15,
+            "title": "How Much Wood Would a Woodchuck Chuck (Beobachtungen zu einer neuen Sprache)",
+            "year": 1973
+        },
+        {
+            "id": 75,
+            "author_id": 7,
+            "title": "Inheritors, The (Siebtelbauern, Die)",
+            "year": 2004
+        },
+        { "id": 76, "author_id": 4, "title": "Arsène Lupin", "year": 1997 },
+        { "id": 77, "author_id": 1, "title": "Kink", "year": 2020 },
+        {
+            "id": 78,
+            "author_id": 7,
+            "title": "Finding Forrester",
+            "year": 1981
+        },
+        {
+            "id": 79,
+            "author_id": 16,
+            "title": "There Was a Crooked Man...",
+            "year": 2018
+        },
+        {
+            "id": 80,
+            "author_id": 11,
+            "title": "Agony and the Ecstasy of Phil Spector, The",
+            "year": 1992
+        },
+        {
+            "id": 81,
+            "author_id": 19,
+            "title": "Game of Chance (Onnenpeli)",
+            "year": 1952
+        },
+        {
+            "id": 82,
+            "author_id": 15,
+            "title": "Crow: Salvation, The",
+            "year": 1963
+        },
+        { "id": 83, "author_id": 7, "title": "One on One", "year": 1990 },
+        {
+            "id": 84,
+            "author_id": 15,
+            "title": "Anazapta (Black Plague)",
+            "year": 2016
+        },
+        { "id": 85, "author_id": 5, "title": "Elevator Girl", "year": 2000 },
+        {
+            "id": 86,
+            "author_id": 18,
+            "title": "My Wife, A Body to Love",
+            "year": 2020
+        },
+        {
+            "id": 87,
+            "author_id": 9,
+            "title": "Sazen Tange and the Pot Worth a Million Ryo",
+            "year": 2017
+        },
+        {
+            "id": 88,
+            "author_id": 10,
+            "title": "Dark Prince: The True Story of Dracula",
+            "year": 1983
+        },
+        {
+            "id": 89,
+            "author_id": 16,
+            "title": "Stoplight Society, The (La Sociedad del Semáforo)",
+            "year": 1974
+        },
+        { "id": 90, "author_id": 10, "title": "Castle Freak", "year": 1955 },
+        { "id": 91, "author_id": 1, "title": "Mina Tannenbaum", "year": 1959 },
+        { "id": 92, "author_id": 13, "title": "Howards End", "year": 2007 },
+        {
+            "id": 93,
+            "author_id": 14,
+            "title": "They Call Him Bulldozer (Lo chiamavano Bulldozer)",
+            "year": 2017
+        },
+        {
+            "id": 94,
+            "author_id": 17,
+            "title": "Man - Woman Wanted (Poszukiwany, poszukiwana)",
+            "year": 1998
+        },
+        { "id": 95, "author_id": 12, "title": "The D.I.", "year": 1958 },
+        {
+            "id": 96,
+            "author_id": 6,
+            "title": "Woody Allen: A Documentary",
+            "year": 1950
+        },
+        { "id": 97, "author_id": 13, "title": "The Snow Woman", "year": 1953 },
+        {
+            "id": 98,
+            "author_id": 13,
+            "title": "The Last Diamond",
+            "year": 1966
+        },
+        {
+            "id": 99,
+            "author_id": 5,
+            "title": "Way of the Gun, The",
+            "year": 1970
+        },
+        {
+            "id": 100,
+            "author_id": 14,
+            "title": "New World (Shin-sae-gye)",
+            "year": 1967
+        },
+        {
+            "id": 101,
+            "author_id": 19,
+            "title": "White Water Summer",
+            "year": 2006
+        },
+        {
+            "id": 102,
+            "author_id": 1,
+            "title": "Right Now (À tout de suite)",
+            "year": 1975
+        },
+        { "id": 103, "author_id": 17, "title": "Hurlyburly", "year": 2013 },
+        { "id": 104, "author_id": 1, "title": "Madeline", "year": 2015 },
+        { "id": 105, "author_id": 17, "title": "Hounds, The", "year": 1979 },
+        {
+            "id": 106,
+            "author_id": 12,
+            "title": "Spanish Main, The",
+            "year": 2003
+        },
+        {
+            "id": 107,
+            "author_id": 13,
+            "title": "Singing Marine, The",
+            "year": 1978
+        },
+        {
+            "id": 108,
+            "author_id": 14,
+            "title": "Return of Mod Squad, The",
+            "year": 2001
+        },
+        { "id": 109, "author_id": 5, "title": "Zig Zag", "year": 1978 },
+        {
+            "id": 110,
+            "author_id": 10,
+            "title": "Soldier's Plaything, A",
+            "year": 1952
+        },
+        {
+            "id": 111,
+            "author_id": 1,
+            "title": "Lightning in a Bottle",
+            "year": 1998
+        },
+        {
+            "id": 112,
+            "author_id": 5,
+            "title": "On Dangerous Ground",
+            "year": 1982
+        },
+        {
+            "id": 113,
+            "author_id": 19,
+            "title": "Butterfly on a Wheel (Shattered)",
+            "year": 1950
+        },
+        { "id": 114, "author_id": 14, "title": "Schwarze Sonne", "year": 1979 },
+        {
+            "id": 115,
+            "author_id": 8,
+            "title": "World Before Her, The",
+            "year": 1989
+        },
+        { "id": 116, "author_id": 12, "title": "Red Rock West", "year": 1969 },
+        { "id": 117, "author_id": 17, "title": "Love the Beast", "year": 1959 },
+        {
+            "id": 118,
+            "author_id": 18,
+            "title": "Throw Away Your Books, Rally in the Streets",
+            "year": 1967
+        },
+        { "id": 119, "author_id": 6, "title": "Cube Zero", "year": 2010 },
+        { "id": 120, "author_id": 7, "title": "Funny Bones", "year": 1954 },
+        {
+            "id": 121,
+            "author_id": 14,
+            "title": "40 Pounds of Trouble",
+            "year": 1968
+        },
+        { "id": 122, "author_id": 9, "title": "Bob le Flambeur", "year": 2000 },
+        {
+            "id": 123,
+            "author_id": 17,
+            "title": "One Piece Film Z",
+            "year": 1984
+        },
+        { "id": 124, "author_id": 6, "title": "Hamlet (Gamlet)", "year": 1969 },
+        {
+            "id": 125,
+            "author_id": 18,
+            "title": "High School Musical 3: Senior Year",
+            "year": 1960
+        },
+        {
+            "id": 126,
+            "author_id": 2,
+            "title": "Densha otoko (Train Man)",
+            "year": 1973
+        },
+        {
+            "id": 127,
+            "author_id": 5,
+            "title": "Dragon Lord (a.k.a. Dragon Strike) (Long Xiao Ye)",
+            "year": 2013
+        },
+        {
+            "id": 128,
+            "author_id": 14,
+            "title": "Cat-Women of the Moon (a.k.a. Rocket to the Moon)",
+            "year": 2017
+        },
+        {
+            "id": 129,
+            "author_id": 7,
+            "title": "Breaking the Waves",
+            "year": 2004
+        },
+        { "id": 130, "author_id": 10, "title": "Tall T, The", "year": 2004 },
+        { "id": 131, "author_id": 14, "title": "Little Sister", "year": 1967 },
+        {
+            "id": 132,
+            "author_id": 17,
+            "title": "The 'High Sign'",
+            "year": 1958
+        },
+        {
+            "id": 133,
+            "author_id": 4,
+            "title": "Auschwitz: The Nazis and the 'Final Solution'",
+            "year": 2018
+        },
+        {
+            "id": 134,
+            "author_id": 2,
+            "title": "Gas, Food, Lodging",
+            "year": 1982
+        },
+        { "id": 135, "author_id": 9, "title": "Rink, The", "year": 2011 },
+        {
+            "id": 136,
+            "author_id": 8,
+            "title": "Shock Doctrine, The",
+            "year": 1983
+        },
+        {
+            "id": 137,
+            "author_id": 5,
+            "title": "Berberian Sound Studio",
+            "year": 2013
+        },
+        { "id": 138, "author_id": 16, "title": "My Demon Lover", "year": 1983 },
+        { "id": 139, "author_id": 3, "title": "National Velvet", "year": 1959 },
+        { "id": 140, "author_id": 13, "title": "Dad Savage", "year": 1997 },
+        { "id": 141, "author_id": 1, "title": "Jack Strong", "year": 2012 },
+        {
+            "id": 142,
+            "author_id": 5,
+            "title": "Let's Do It Again",
+            "year": 2000
+        },
+        { "id": 143, "author_id": 1, "title": "Black Dog", "year": 1967 },
+        { "id": 144, "author_id": 20, "title": "Oklahoma Crude", "year": 2015 },
+        {
+            "id": 145,
+            "author_id": 1,
+            "title": "By the Light of the Silvery Moon",
+            "year": 1983
+        },
+        {
+            "id": 146,
+            "author_id": 1,
+            "title": "Illusionist, The",
+            "year": 1999
+        },
+        {
+            "id": 147,
+            "author_id": 15,
+            "title": "Hollywood Sex Wars",
+            "year": 2010
+        },
+        { "id": 148, "author_id": 8, "title": "Fled", "year": 2020 },
+        {
+            "id": 149,
+            "author_id": 11,
+            "title": "Cold Moon (Lune froide)",
+            "year": 2014
+        },
+        {
+            "id": 150,
+            "author_id": 19,
+            "title": "We Are from the Future (My iz budushchego)",
+            "year": 2019
+        },
+        {
+            "id": 151,
+            "author_id": 17,
+            "title": "Vampire Girl vs. Frankenstein Girl (Kyûketsu Shôjo tai Shôjo Furanken)",
+            "year": 1965
+        },
+        {
+            "id": 152,
+            "author_id": 13,
+            "title": "Prince of Foxes",
+            "year": 1966
+        },
+        { "id": 153, "author_id": 2, "title": "Breakdown", "year": 1986 },
+        {
+            "id": 154,
+            "author_id": 16,
+            "title": "Into the White (Cross of Honour)",
+            "year": 2007
+        },
+        { "id": 155, "author_id": 14, "title": "Kolmistaan", "year": 1969 },
+        {
+            "id": 156,
+            "author_id": 5,
+            "title": "Sterile Cuckoo, The",
+            "year": 1969
+        },
+        {
+            "id": 157,
+            "author_id": 16,
+            "title": "Amelie (Fabuleux destin d'Amélie Poulain, Le)",
+            "year": 1998
+        },
+        {
+            "id": 158,
+            "author_id": 1,
+            "title": "Boy Eating the Bird's Food (To agori troei to fagito tou pouliou)",
+            "year": 1973
+        },
+        { "id": 159, "author_id": 7, "title": "Square Dance", "year": 2010 },
+        {
+            "id": 160,
+            "author_id": 12,
+            "title": "Hardboiled Egg (Ovosodo)",
+            "year": 2016
+        },
+        { "id": 161, "author_id": 2, "title": "Pumpkinhead", "year": 1998 },
+        {
+            "id": 162,
+            "author_id": 10,
+            "title": "Pied Piper, The (Pied Piper of Hamelin, The)",
+            "year": 1951
+        },
+        {
+            "id": 163,
+            "author_id": 11,
+            "title": "Sukiyaki Western Django",
+            "year": 2018
+        },
+        { "id": 164, "author_id": 14, "title": "Stop-Loss", "year": 1961 },
+        {
+            "id": 165,
+            "author_id": 4,
+            "title": "Rise of the Zombies",
+            "year": 2001
+        },
+        {
+            "id": 166,
+            "author_id": 18,
+            "title": "Man on the Train (Homme du train, L')",
+            "year": 1994
+        },
+        { "id": 167, "author_id": 18, "title": "Raggedy Man", "year": 1985 },
+        { "id": 168, "author_id": 17, "title": "Ego", "year": 1973 },
+        {
+            "id": 169,
+            "author_id": 7,
+            "title": "False Trail (Jägarna 2)",
+            "year": 2008
+        },
+        {
+            "id": 170,
+            "author_id": 8,
+            "title": "Friend Zone (Pagafantas)",
+            "year": 1989
+        },
+        { "id": 171, "author_id": 10, "title": "Winter's Bone", "year": 1987 },
+        {
+            "id": 172,
+            "author_id": 14,
+            "title": "One in a Million: The Ron LeFlore Story",
+            "year": 1990
+        },
+        {
+            "id": 173,
+            "author_id": 14,
+            "title": "Fighting Spirit, The",
+            "year": 2020
+        },
+        {
+            "id": 174,
+            "author_id": 13,
+            "title": "Five Minarets in New York (Act of Vengeance) (Terrorist, The)",
+            "year": 1999
+        },
+        { "id": 175, "author_id": 17, "title": "Evan Almighty", "year": 1969 },
+        {
+            "id": 176,
+            "author_id": 12,
+            "title": "Lovely Bones, The",
+            "year": 2019
+        },
+        { "id": 177, "author_id": 4, "title": "Hush!", "year": 1995 },
+        { "id": 178, "author_id": 15, "title": "Nora", "year": 1996 },
+        {
+            "id": 179,
+            "author_id": 8,
+            "title": "14 Blades (Jin yi wei)",
+            "year": 1983
+        },
+        {
+            "id": 180,
+            "author_id": 17,
+            "title": "Bedtime Stories",
+            "year": 1998
+        },
+        { "id": 181, "author_id": 1, "title": "Shadow Boxers", "year": 1980 },
+        { "id": 182, "author_id": 14, "title": "Callas Forever", "year": 2017 },
+        {
+            "id": 183,
+            "author_id": 18,
+            "title": "M*A*S*H (a.k.a. MASH)",
+            "year": 1969
+        },
+        { "id": 184, "author_id": 13, "title": "Oh Happy Day", "year": 1998 },
+        {
+            "id": 185,
+            "author_id": 6,
+            "title": "Diary of a Wimpy Kid",
+            "year": 2000
+        },
+        {
+            "id": 186,
+            "author_id": 16,
+            "title": "Elia Kazan: A Director's Journey",
+            "year": 2013
+        },
+        {
+            "id": 187,
+            "author_id": 2,
+            "title": "Beyond the Walls (Hors les murs)",
+            "year": 1988
+        },
+        {
+            "id": 188,
+            "author_id": 8,
+            "title": "Friends, The (Les Amis)",
+            "year": 2003
+        },
+        { "id": 189, "author_id": 8, "title": "Girl, The", "year": 1961 },
+        { "id": 190, "author_id": 3, "title": "Clue", "year": 2013 },
+        {
+            "id": 191,
+            "author_id": 15,
+            "title": "Filming 'Othello'",
+            "year": 1968
+        },
+        { "id": 192, "author_id": 8, "title": "Creator", "year": 1990 },
+        {
+            "id": 193,
+            "author_id": 10,
+            "title": "Six-String Samurai",
+            "year": 1986
+        },
+        { "id": 194, "author_id": 8, "title": "Do Not Disturb", "year": 1998 },
+        { "id": 195, "author_id": 16, "title": "Far from Home", "year": 1998 },
+        {
+            "id": 196,
+            "author_id": 20,
+            "title": "Two-Lane Blacktop",
+            "year": 1980
+        },
+        { "id": 197, "author_id": 15, "title": "Abominable", "year": 2000 },
+        {
+            "id": 198,
+            "author_id": 5,
+            "title": "P.S. Your Cat is Dead",
+            "year": 2013
+        },
+        {
+            "id": 199,
+            "author_id": 11,
+            "title": "Virgin Suicides, The",
+            "year": 1981
+        },
+        {
+            "id": 200,
+            "author_id": 10,
+            "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+            "year": 1995
+        },
+        { "id": 201, "author_id": 7, "title": "Network", "year": 2017 },
+        {
+            "id": 202,
+            "author_id": 20,
+            "title": "Happy We (Två killar och en tjej)",
+            "year": 1965
+        },
+        { "id": 203, "author_id": 11, "title": "Ripley's Game", "year": 1983 },
+        {
+            "id": 204,
+            "author_id": 16,
+            "title": "Kids of the Round Table",
+            "year": 1968
+        },
+        {
+            "id": 205,
+            "author_id": 16,
+            "title": "Towering Inferno, The",
+            "year": 1985
+        },
+        {
+            "id": 206,
+            "author_id": 13,
+            "title": "Missing Picture, The (L'image manquante)",
+            "year": 1988
+        },
+        { "id": 207, "author_id": 1, "title": "Teacher's Pet", "year": 1981 },
+        {
+            "id": 208,
+            "author_id": 13,
+            "title": "Quiet American, The",
+            "year": 2011
+        },
+        { "id": 209, "author_id": 11, "title": "Molly Maxwell", "year": 1953 },
+        {
+            "id": 210,
+            "author_id": 9,
+            "title": "6 Desires: DH Lawrence and Sardinia",
+            "year": 2004
+        },
+        {
+            "id": 211,
+            "author_id": 7,
+            "title": "Colossus: The Forbin Project",
+            "year": 1976
+        },
+        { "id": 212, "author_id": 1, "title": "Matinee", "year": 1970 },
+        { "id": 213, "author_id": 12, "title": "Chain Reaction", "year": 1990 },
+        { "id": 214, "author_id": 15, "title": "Among Giants", "year": 2002 },
+        {
+            "id": 215,
+            "author_id": 1,
+            "title": "Crazy Beautiful You",
+            "year": 1985
+        },
+        { "id": 216, "author_id": 7, "title": "Whatever Works", "year": 1966 },
+        {
+            "id": 217,
+            "author_id": 9,
+            "title": "Alice in Wonderland",
+            "year": 1971
+        },
+        { "id": 218, "author_id": 5, "title": "Studentfesten", "year": 1988 },
+        {
+            "id": 219,
+            "author_id": 6,
+            "title": "Invisible Invaders",
+            "year": 2010
+        },
+        { "id": 220, "author_id": 18, "title": "The Circle", "year": 1996 },
+        { "id": 221, "author_id": 7, "title": "White Oleander", "year": 1996 },
+        {
+            "id": 222,
+            "author_id": 1,
+            "title": "Persona non grata",
+            "year": 2002
+        },
+        {
+            "id": 223,
+            "author_id": 17,
+            "title": "Naked Blood: Megyaku (Nekeddo burâddo: Megyaku)",
+            "year": 2005
+        },
+        {
+            "id": 224,
+            "author_id": 12,
+            "title": "Bullet for the General, A (Quién Sabe?)",
+            "year": 2018
+        },
+        { "id": 225, "author_id": 12, "title": "Farmageddon", "year": 1988 },
+        { "id": 226, "author_id": 2, "title": "Vampires", "year": 1974 },
+        {
+            "id": 227,
+            "author_id": 7,
+            "title": "Door in the Floor, The",
+            "year": 1971
+        },
+        { "id": 228, "author_id": 4, "title": "Daisy Kenyon", "year": 1996 },
+        {
+            "id": 229,
+            "author_id": 8,
+            "title": "Snake and Mongoose",
+            "year": 1975
+        },
+        {
+            "id": 230,
+            "author_id": 12,
+            "title": "Children Who Chase Lost Voices from Deep Below (Hoshi o ou kodomo) (Journey to Agartha)",
+            "year": 1976
+        },
+        {
+            "id": 231,
+            "author_id": 15,
+            "title": "Call of the Wild, The",
+            "year": 1979
+        },
+        {
+            "id": 232,
+            "author_id": 16,
+            "title": "Misérables, Les",
+            "year": 1976
+        },
+        {
+            "id": 233,
+            "author_id": 2,
+            "title": "In Your Dreams (Dans tes rêves)",
+            "year": 2017
+        },
+        {
+            "id": 234,
+            "author_id": 16,
+            "title": "Agent Cody Banks 2: Destination London",
+            "year": 1977
+        },
+        { "id": 235, "author_id": 2, "title": "Upperworld", "year": 1957 },
+        { "id": 236, "author_id": 20, "title": "White Zombie", "year": 1952 },
+        {
+            "id": 237,
+            "author_id": 9,
+            "title": "Sleepless in Seattle",
+            "year": 2002
+        },
+        { "id": 238, "author_id": 15, "title": "CSNY Déjà Vu", "year": 2010 },
+        {
+            "id": 239,
+            "author_id": 4,
+            "title": "Devil Inside, The",
+            "year": 2009
+        },
+        { "id": 240, "author_id": 8, "title": "Mr. Average", "year": 1994 },
+        {
+            "id": 241,
+            "author_id": 16,
+            "title": "Executive Suite",
+            "year": 2005
+        },
+        { "id": 242, "author_id": 8, "title": "Adore", "year": 1959 },
+        { "id": 243, "author_id": 6, "title": "Monster House", "year": 1982 },
+        {
+            "id": 244,
+            "author_id": 12,
+            "title": "Red Spectacles, The (Jigoku no banken: akai megane)",
+            "year": 2018
+        },
+        {
+            "id": 245,
+            "author_id": 17,
+            "title": "Hunt, The (Jagten)",
+            "year": 1988
+        },
+        {
+            "id": 246,
+            "author_id": 15,
+            "title": "V. I. Warshawski",
+            "year": 1964
+        },
+        {
+            "id": 247,
+            "author_id": 3,
+            "title": "Shooting Gallery",
+            "year": 2012
+        },
+        {
+            "id": 248,
+            "author_id": 5,
+            "title": "Inn of Evil (Inochi bô ni furô)",
+            "year": 1978
+        },
+        { "id": 249, "author_id": 13, "title": "Kitty", "year": 2018 },
+        {
+            "id": 250,
+            "author_id": 12,
+            "title": "V2: Dead Angel (Vares 2 - Jäätynyt Enkeli)",
+            "year": 1965
+        },
+        {
+            "id": 251,
+            "author_id": 10,
+            "title": "Blue Light, The (Blaue Licht, Das)",
+            "year": 1989
+        },
+        { "id": 252, "author_id": 11, "title": "Kiss Me, Guido", "year": 1968 },
+        {
+            "id": 253,
+            "author_id": 17,
+            "title": "When Pigs Have Wings",
+            "year": 1968
+        },
+        { "id": 254, "author_id": 19, "title": "Soul Food", "year": 1976 },
+        {
+            "id": 255,
+            "author_id": 3,
+            "title": "Harrison Bergeron",
+            "year": 1993
+        },
+        {
+            "id": 256,
+            "author_id": 13,
+            "title": "Family Thing, A",
+            "year": 1982
+        },
+        {
+            "id": 257,
+            "author_id": 20,
+            "title": "Terminator 3: Rise of the Machines",
+            "year": 1981
+        },
+        {
+            "id": 258,
+            "author_id": 15,
+            "title": "Mirror, The (Ayneh)",
+            "year": 1963
+        },
+        { "id": 259, "author_id": 17, "title": "Atonement", "year": 2016 },
+        {
+            "id": 260,
+            "author_id": 6,
+            "title": "Plough and the Stars, The",
+            "year": 1963
+        },
+        { "id": 261, "author_id": 16, "title": "Endgame", "year": 2017 },
+        {
+            "id": 262,
+            "author_id": 8,
+            "title": "So I Married an Axe Murderer",
+            "year": 1998
+        },
+        {
+            "id": 263,
+            "author_id": 20,
+            "title": "Mysterious Geographic Explorations of Jasper Morello, The",
+            "year": 2020
+        },
+        {
+            "id": 264,
+            "author_id": 7,
+            "title": "One in a Million: The Ron LeFlore Story",
+            "year": 1994
+        },
+        {
+            "id": 265,
+            "author_id": 9,
+            "title": "Tupac: Resurrection",
+            "year": 2011
+        },
+        {
+            "id": 266,
+            "author_id": 19,
+            "title": "Happy Times (Xingfu shiguang)",
+            "year": 1953
+        },
+        { "id": 267, "author_id": 4, "title": "Alibi", "year": 1993 },
+        { "id": 268, "author_id": 18, "title": "King Arthur", "year": 2001 },
+        { "id": 269, "author_id": 9, "title": "Jimmy Show, The", "year": 1968 },
+        { "id": 270, "author_id": 1, "title": "Dante's Inferno", "year": 2013 },
+        {
+            "id": 271,
+            "author_id": 2,
+            "title": "Lightning Bolt: The Power of Salad",
+            "year": 2018
+        },
+        { "id": 272, "author_id": 15, "title": "Rembrandt", "year": 1984 },
+        { "id": 273, "author_id": 2, "title": "Citizen Ruth", "year": 2009 },
+        {
+            "id": 274,
+            "author_id": 12,
+            "title": "Service (Serbis)",
+            "year": 1958
+        },
+        { "id": 275, "author_id": 11, "title": "Hoot", "year": 2009 },
+        {
+            "id": 276,
+            "author_id": 15,
+            "title": "Striking Distance",
+            "year": 1981
+        },
+        {
+            "id": 277,
+            "author_id": 15,
+            "title": "Blue Dahlia, The",
+            "year": 1979
+        },
+        {
+            "id": 278,
+            "author_id": 18,
+            "title": "Twilight Saga: Breaking Dawn - Part 2, The",
+            "year": 2009
+        },
+        { "id": 279, "author_id": 12, "title": "Dagon", "year": 1985 },
+        {
+            "id": 280,
+            "author_id": 9,
+            "title": "End of St. Petersburg, The (Konets Sankt-Peterburga)",
+            "year": 1996
+        },
+        { "id": 281, "author_id": 5, "title": "Horrorvision", "year": 1970 },
+        {
+            "id": 282,
+            "author_id": 2,
+            "title": "Birth of a Nation, The",
+            "year": 2019
+        },
+        {
+            "id": 283,
+            "author_id": 12,
+            "title": "Mongolian Ping-Pong (Lü cao di)",
+            "year": 1952
+        },
+        { "id": 284, "author_id": 9, "title": "Floundering", "year": 2001 },
+        {
+            "id": 285,
+            "author_id": 9,
+            "title": "Your Friends and Neighbors",
+            "year": 2020
+        },
+        { "id": 286, "author_id": 3, "title": "Tart", "year": 1972 },
+        { "id": 287, "author_id": 9, "title": "One Day", "year": 1995 },
+        {
+            "id": 288,
+            "author_id": 4,
+            "title": "Chicago Joe and the Showgirl",
+            "year": 1982
+        },
+        {
+            "id": 289,
+            "author_id": 18,
+            "title": "Boys Diving, Honolulu",
+            "year": 1955
+        },
+        { "id": 290, "author_id": 6, "title": "Haiku Tunnel", "year": 2008 },
+        {
+            "id": 291,
+            "author_id": 7,
+            "title": "Terms and Conditions May Apply",
+            "year": 1995
+        },
+        {
+            "id": 292,
+            "author_id": 16,
+            "title": "Code Unknown (Code inconnu: Récit incomplet de divers voyages)",
+            "year": 2008
+        },
+        { "id": 293, "author_id": 11, "title": "Bad Ronald", "year": 1974 },
+        {
+            "id": 294,
+            "author_id": 10,
+            "title": "Meet Wally Sparks",
+            "year": 2017
+        },
+        {
+            "id": 295,
+            "author_id": 9,
+            "title": "Beautiful Lies (De vrais mensonges) (Full Treatment)",
+            "year": 2016
+        },
+        { "id": 296, "author_id": 17, "title": "Wreck-It Ralph", "year": 2006 },
+        {
+            "id": 297,
+            "author_id": 11,
+            "title": "Live Flesh (Carne trémula)",
+            "year": 1971
+        },
+        {
+            "id": 298,
+            "author_id": 17,
+            "title": "The Magnificent Gladiator",
+            "year": 2012
+        },
+        {
+            "id": 299,
+            "author_id": 5,
+            "title": "Climate of Change",
+            "year": 1960
+        },
+        { "id": 300, "author_id": 14, "title": "Parker", "year": 2011 },
+        {
+            "id": 301,
+            "author_id": 6,
+            "title": "Werner Herzog Eats His Shoe",
+            "year": 1982
+        },
+        {
+            "id": 302,
+            "author_id": 7,
+            "title": "Night on the Galactic Railroad (Ginga-tetsudo no yoru)",
+            "year": 1955
+        },
+        {
+            "id": 303,
+            "author_id": 3,
+            "title": "Small Apartments",
+            "year": 1962
+        },
+        { "id": 304, "author_id": 2, "title": "B.F.'s Daughter", "year": 1981 },
+        { "id": 305, "author_id": 12, "title": "Rock the Boat", "year": 2018 },
+        { "id": 306, "author_id": 18, "title": "15", "year": 1990 },
+        {
+            "id": 307,
+            "author_id": 12,
+            "title": "An Evening with Robin Williams",
+            "year": 1971
+        },
+        { "id": 308, "author_id": 1, "title": "Texasville", "year": 2005 },
+        {
+            "id": 309,
+            "author_id": 18,
+            "title": "Bells Are Ringing",
+            "year": 1984
+        },
+        {
+            "id": 310,
+            "author_id": 12,
+            "title": "Cotton Comes to Harlem",
+            "year": 1965
+        },
+        { "id": 311, "author_id": 11, "title": "Yu-Gi-Oh!", "year": 1962 },
+        { "id": 312, "author_id": 20, "title": "I Feel Sleepy", "year": 2004 },
+        { "id": 313, "author_id": 9, "title": "Alabama's Ghost", "year": 1964 },
+        { "id": 314, "author_id": 7, "title": "Valentine Road", "year": 1995 },
+        { "id": 315, "author_id": 20, "title": "Desert Blue", "year": 1964 },
+        {
+            "id": 316,
+            "author_id": 11,
+            "title": "Wedding Planner, The",
+            "year": 2006
+        },
+        {
+            "id": 317,
+            "author_id": 13,
+            "title": "Forgiveness of Blood, The (Falja e gjakut)",
+            "year": 2018
+        },
+        {
+            "id": 318,
+            "author_id": 2,
+            "title": "Dillinger Is Dead (Dillinger è morto)",
+            "year": 1958
+        },
+        {
+            "id": 319,
+            "author_id": 11,
+            "title": "God is Great, I'm Not (Dieu est grand, je suis toute petite)",
+            "year": 1952
+        },
+        { "id": 320, "author_id": 18, "title": "Magic Mike", "year": 2012 },
+        { "id": 321, "author_id": 15, "title": "Blue Car", "year": 1985 },
+        {
+            "id": 322,
+            "author_id": 20,
+            "title": "1, 2, 3, Sun (Un, deuz, trois, soleil)",
+            "year": 1983
+        },
+        {
+            "id": 323,
+            "author_id": 7,
+            "title": "Taking of Power by Louis XIV, The (Prise de pouvoir par Louis XIV, La)",
+            "year": 1981
+        },
+        {
+            "id": 324,
+            "author_id": 19,
+            "title": "The Beast of the City",
+            "year": 2012
+        },
+        {
+            "id": 325,
+            "author_id": 18,
+            "title": "Love Is All There Is",
+            "year": 1995
+        },
+        {
+            "id": 326,
+            "author_id": 13,
+            "title": "And the Pursuit of Happiness (La poursuite du bonheur)",
+            "year": 1990
+        },
+        {
+            "id": 327,
+            "author_id": 13,
+            "title": "Blood Suckers from Outer Space",
+            "year": 1966
+        },
+        { "id": 328, "author_id": 19, "title": "Shanghai Noon", "year": 2007 },
+        { "id": 329, "author_id": 5, "title": "Familiar Ground", "year": 1951 },
+        { "id": 330, "author_id": 11, "title": "Flow", "year": 1978 },
+        {
+            "id": 331,
+            "author_id": 6,
+            "title": "Reluctant Astronaut, The",
+            "year": 2008
+        },
+        {
+            "id": 332,
+            "author_id": 17,
+            "title": "Dracula: Dead and Loving It",
+            "year": 1972
+        },
+        {
+            "id": 333,
+            "author_id": 10,
+            "title": "Inside Deep Throat",
+            "year": 1956
+        },
+        { "id": 334, "author_id": 16, "title": "Risky Business", "year": 1997 },
+        { "id": 335, "author_id": 15, "title": "W.", "year": 2010 },
+        { "id": 336, "author_id": 5, "title": "I'm Still Here", "year": 2006 },
+        {
+            "id": 337,
+            "author_id": 3,
+            "title": "Pride and Prejudice",
+            "year": 2004
+        },
+        { "id": 338, "author_id": 14, "title": "Toy Story 2", "year": 1987 },
+        { "id": 339, "author_id": 15, "title": "She's All That", "year": 1976 },
+        {
+            "id": 340,
+            "author_id": 15,
+            "title": "American Friend, The (Amerikanische Freund, Der)",
+            "year": 1960
+        },
+        { "id": 341, "author_id": 9, "title": "General, The", "year": 1979 },
+        {
+            "id": 342,
+            "author_id": 3,
+            "title": "Grace Lee Project, The",
+            "year": 1980
+        },
+        {
+            "id": 343,
+            "author_id": 19,
+            "title": "Monkey's Teeth (Dents du singe, Les)",
+            "year": 1951
+        },
+        { "id": 344, "author_id": 17, "title": "Buster", "year": 1962 },
+        { "id": 345, "author_id": 17, "title": "The 39 Steps", "year": 1984 },
+        { "id": 346, "author_id": 20, "title": "Vali", "year": 2007 },
+        { "id": 347, "author_id": 7, "title": "Hand in Hand", "year": 2011 },
+        { "id": 348, "author_id": 14, "title": "Friday", "year": 1999 },
+        {
+            "id": 349,
+            "author_id": 13,
+            "title": "Destination Gobi",
+            "year": 1987
+        },
+        { "id": 350, "author_id": 9, "title": "Innocence", "year": 1969 },
+        { "id": 351, "author_id": 12, "title": "Owning Mahowny", "year": 2009 },
+        { "id": 352, "author_id": 18, "title": "Cargo", "year": 1971 },
+        { "id": 353, "author_id": 5, "title": "Trek Nation", "year": 1959 },
+        {
+            "id": 354,
+            "author_id": 11,
+            "title": "Black Sun (Kuroi taiyô)",
+            "year": 2003
+        },
+        {
+            "id": 355,
+            "author_id": 16,
+            "title": "Budd Boetticher: An American Original ",
+            "year": 1959
+        },
+        {
+            "id": 356,
+            "author_id": 11,
+            "title": "Resan Till Melonia",
+            "year": 1977
+        },
+        { "id": 357, "author_id": 3, "title": "Governess, The", "year": 1962 },
+        { "id": 358, "author_id": 18, "title": "Elsa & Fred", "year": 1996 },
+        { "id": 359, "author_id": 19, "title": "King Kong", "year": 2007 },
+        {
+            "id": 360,
+            "author_id": 15,
+            "title": "Miracles - Mr. Canton and Lady Rose",
+            "year": 2012
+        },
+        {
+            "id": 361,
+            "author_id": 16,
+            "title": "American Hustle",
+            "year": 1958
+        },
+        {
+            "id": 362,
+            "author_id": 2,
+            "title": "Eklavya: The Royal Guard",
+            "year": 2019
+        },
+        { "id": 363, "author_id": 15, "title": "Dirty Work", "year": 1965 },
+        {
+            "id": 364,
+            "author_id": 18,
+            "title": "Listen to Your Heart",
+            "year": 1960
+        },
+        {
+            "id": 365,
+            "author_id": 2,
+            "title": "Journeys with George",
+            "year": 2000
+        },
+        {
+            "id": 366,
+            "author_id": 17,
+            "title": "Lady and the Reaper, The (Dama y la muerte, La)",
+            "year": 2007
+        },
+        {
+            "id": 367,
+            "author_id": 12,
+            "title": "Chasing Christmas",
+            "year": 1981
+        },
+        {
+            "id": 368,
+            "author_id": 6,
+            "title": "Mad Max Beyond Thunderdome",
+            "year": 2016
+        },
+        { "id": 369, "author_id": 15, "title": "My Life So Far", "year": 1962 },
+        { "id": 370, "author_id": 5, "title": "Boxing Helena", "year": 1973 },
+        {
+            "id": 371,
+            "author_id": 14,
+            "title": "To Kill a Priest",
+            "year": 1951
+        },
+        {
+            "id": 372,
+            "author_id": 9,
+            "title": "Henry Poole is Here",
+            "year": 1972
+        },
+        {
+            "id": 373,
+            "author_id": 16,
+            "title": "Sawdust and Tinsel (Gycklarnas afton)",
+            "year": 1967
+        },
+        {
+            "id": 374,
+            "author_id": 6,
+            "title": "Heavenly Body, The",
+            "year": 2016
+        },
+        {
+            "id": 375,
+            "author_id": 9,
+            "title": "Hunting of the President, The",
+            "year": 1996
+        },
+        { "id": 376, "author_id": 3, "title": "Into the Mind", "year": 1973 },
+        { "id": 377, "author_id": 17, "title": "TV Set, The", "year": 1953 },
+        {
+            "id": 378,
+            "author_id": 14,
+            "title": "Permanent Record",
+            "year": 1994
+        },
+        {
+            "id": 379,
+            "author_id": 10,
+            "title": "So I Married an Axe Murderer",
+            "year": 1954
+        },
+        {
+            "id": 380,
+            "author_id": 12,
+            "title": "Gifted Hands: The Ben Carson Story",
+            "year": 2007
+        },
+        { "id": 381, "author_id": 7, "title": "Vincere", "year": 1998 },
+        {
+            "id": 382,
+            "author_id": 3,
+            "title": "Imagine I'm Beautiful",
+            "year": 1961
+        },
+        {
+            "id": 383,
+            "author_id": 6,
+            "title": "Echelon Conspiracy",
+            "year": 1973
+        },
+        { "id": 384, "author_id": 7, "title": "Flaw, The", "year": 2006 },
+        {
+            "id": 385,
+            "author_id": 20,
+            "title": "They All Laughed",
+            "year": 2006
+        },
+        {
+            "id": 386,
+            "author_id": 13,
+            "title": "All Superheros Must Die",
+            "year": 1989
+        },
+        { "id": 387, "author_id": 6, "title": "Up the River", "year": 1990 },
+        {
+            "id": 388,
+            "author_id": 8,
+            "title": "Blair Witch Project, The",
+            "year": 1956
+        },
+        { "id": 389, "author_id": 5, "title": "Opera Jawa", "year": 1990 },
+        { "id": 390, "author_id": 12, "title": "Jack and Sarah", "year": 1962 },
+        {
+            "id": 391,
+            "author_id": 13,
+            "title": "Raise Your Voice",
+            "year": 2007
+        },
+        {
+            "id": 392,
+            "author_id": 16,
+            "title": "The Youngest Profession",
+            "year": 1984
+        },
+        {
+            "id": 393,
+            "author_id": 14,
+            "title": "Whisper of Sin (Nuodemes uzkalbejimas)",
+            "year": 1994
+        },
+        { "id": 394, "author_id": 17, "title": "Golem", "year": 1989 },
+        { "id": 395, "author_id": 10, "title": "El Greco", "year": 1995 },
+        {
+            "id": 396,
+            "author_id": 20,
+            "title": "Wild Bunch, The",
+            "year": 2011
+        },
+        {
+            "id": 397,
+            "author_id": 3,
+            "title": "Betrayed (True and the Brave, The)",
+            "year": 1977
+        },
+        {
+            "id": 398,
+            "author_id": 13,
+            "title": "Bernice Bobs Her Hair",
+            "year": 1996
+        },
+        {
+            "id": 399,
+            "author_id": 15,
+            "title": "Last Resort (National Lampoon's Last Resort)",
+            "year": 1975
+        },
+        {
+            "id": 400,
+            "author_id": 13,
+            "title": "Any Given Sunday",
+            "year": 2019
+        },
+        {
+            "id": 401,
+            "author_id": 10,
+            "title": "Mystic Masseur, The",
+            "year": 1991
+        },
+        { "id": 402, "author_id": 12, "title": "Philomena", "year": 1997 },
+        { "id": 403, "author_id": 10, "title": "49 Up", "year": 1971 },
+        { "id": 404, "author_id": 10, "title": "Intern, The", "year": 2004 },
+        {
+            "id": 405,
+            "author_id": 5,
+            "title": "Farewell to Arms, A",
+            "year": 2010
+        },
+        {
+            "id": 406,
+            "author_id": 9,
+            "title": "Rowing with the Wind (Remando al viento)",
+            "year": 1967
+        },
+        { "id": 407, "author_id": 17, "title": "Thrashin'", "year": 1982 },
+        {
+            "id": 408,
+            "author_id": 13,
+            "title": "Ecstasy in Entropy",
+            "year": 1968
+        },
+        {
+            "id": 409,
+            "author_id": 16,
+            "title": "Blueprint for Murder, A",
+            "year": 1989
+        },
+        {
+            "id": 410,
+            "author_id": 11,
+            "title": "Jimmy Rosenberg: The Father, the Son & the Talent",
+            "year": 1975
+        },
+        {
+            "id": 411,
+            "author_id": 17,
+            "title": "Chapiteau-show (Shapito-shou)",
+            "year": 2019
+        },
+        { "id": 412, "author_id": 13, "title": "Life Is Sweet", "year": 2012 },
+        {
+            "id": 413,
+            "author_id": 17,
+            "title": "Dead Times (Temps morts, Les)",
+            "year": 1955
+        },
+        {
+            "id": 414,
+            "author_id": 2,
+            "title": "Hoosiers (a.k.a. Best Shot)",
+            "year": 2014
+        },
+        { "id": 415, "author_id": 5, "title": "Zulu Dawn", "year": 2003 },
+        {
+            "id": 416,
+            "author_id": 3,
+            "title": "Blood of a Poet, The (Sang d'un poète, Le)",
+            "year": 1975
+        },
+        { "id": 417, "author_id": 7, "title": "Crazy Love", "year": 2001 },
+        {
+            "id": 418,
+            "author_id": 17,
+            "title": "Poor Boy's Game",
+            "year": 1956
+        },
+        {
+            "id": 419,
+            "author_id": 12,
+            "title": "Dante's Inferno: An Animated Epic",
+            "year": 2010
+        },
+        {
+            "id": 420,
+            "author_id": 8,
+            "title": "Ann Carver's Profession",
+            "year": 1963
+        },
+        { "id": 421, "author_id": 9, "title": "Ouija", "year": 1969 },
+        {
+            "id": 422,
+            "author_id": 1,
+            "title": "Family Honeymoon",
+            "year": 2007
+        },
+        { "id": 423, "author_id": 18, "title": "Puncture", "year": 1979 },
+        { "id": 424, "author_id": 20, "title": "Snitch", "year": 1950 },
+        { "id": 425, "author_id": 13, "title": "Narrien illat ", "year": 1999 },
+        { "id": 426, "author_id": 11, "title": "Salomè", "year": 2001 },
+        {
+            "id": 427,
+            "author_id": 18,
+            "title": "It's a Bikini World",
+            "year": 2018
+        },
+        {
+            "id": 428,
+            "author_id": 3,
+            "title": "Quiller Memorandum, The",
+            "year": 1970
+        },
+        {
+            "id": 429,
+            "author_id": 13,
+            "title": "Phone Call from a Stranger",
+            "year": 1971
+        },
+        { "id": 430, "author_id": 19, "title": "Death Hunt", "year": 1993 },
+        {
+            "id": 431,
+            "author_id": 7,
+            "title": "Night of the Generals, The",
+            "year": 2004
+        },
+        {
+            "id": 432,
+            "author_id": 3,
+            "title": "Road to El Dorado, The",
+            "year": 1991
+        },
+        { "id": 433, "author_id": 6, "title": "Pinocchio", "year": 1983 },
+        {
+            "id": 434,
+            "author_id": 19,
+            "title": "Princess and the Pirate, The",
+            "year": 1995
+        },
+        {
+            "id": 435,
+            "author_id": 19,
+            "title": "Broadway Melody of 1936",
+            "year": 1965
+        },
+        {
+            "id": 436,
+            "author_id": 7,
+            "title": "One Nine Nine Four",
+            "year": 2002
+        },
+        { "id": 437, "author_id": 7, "title": "Man, The", "year": 1972 },
+        {
+            "id": 438,
+            "author_id": 17,
+            "title": "Sukiyaki Western Django",
+            "year": 2001
+        },
+        { "id": 439, "author_id": 3, "title": "Cold Storage", "year": 1972 },
+        {
+            "id": 440,
+            "author_id": 18,
+            "title": "Ten Little Indians",
+            "year": 1955
+        },
+        { "id": 441, "author_id": 2, "title": "Genevieve", "year": 1973 },
+        { "id": 442, "author_id": 8, "title": "Beaches", "year": 1972 },
+        {
+            "id": 443,
+            "author_id": 10,
+            "title": "Fright Night 2: New Blood",
+            "year": 2014
+        },
+        { "id": 444, "author_id": 10, "title": "Otis", "year": 1990 },
+        { "id": 445, "author_id": 2, "title": "Angela's Ashes", "year": 2005 },
+        {
+            "id": 446,
+            "author_id": 17,
+            "title": "Girl Cut in Two, The (Fille coupée en deux, La)",
+            "year": 1979
+        },
+        {
+            "id": 447,
+            "author_id": 7,
+            "title": "Journey of Hope (Reise der Hoffnung)",
+            "year": 2016
+        },
+        {
+            "id": 448,
+            "author_id": 5,
+            "title": "Predictions of Fire (Prerokbe Ognja)",
+            "year": 1975
+        },
+        { "id": 449, "author_id": 11, "title": "Highlander", "year": 1972 },
+        {
+            "id": 450,
+            "author_id": 12,
+            "title": "Robinson Crusoe on Mars",
+            "year": 2000
+        },
+        { "id": 451, "author_id": 19, "title": "Wonderland", "year": 2009 },
+        {
+            "id": 452,
+            "author_id": 19,
+            "title": "Apprenticeship of Duddy Kravitz, The",
+            "year": 1962
+        },
+        {
+            "id": 453,
+            "author_id": 10,
+            "title": "...tick... tick... tick...",
+            "year": 1996
+        },
+        {
+            "id": 454,
+            "author_id": 10,
+            "title": "A Night at the Movies: The Suspenseful World of Thrillers",
+            "year": 1985
+        },
+        {
+            "id": 455,
+            "author_id": 9,
+            "title": "Welcome to the Space Show (Uchû shô e yôkoso)",
+            "year": 2020
+        },
+        { "id": 456, "author_id": 9, "title": "British Sounds", "year": 2019 },
+        {
+            "id": 457,
+            "author_id": 4,
+            "title": "Mesrine: Public Enemy #1 (L'ennemi public n°1)",
+            "year": 1960
+        },
+        {
+            "id": 458,
+            "author_id": 15,
+            "title": "Interrogation (Przesluchanie)",
+            "year": 1955
+        },
+        {
+            "id": 459,
+            "author_id": 1,
+            "title": "Blackadder's Christmas Carol",
+            "year": 2003
+        },
+        { "id": 460, "author_id": 19, "title": "South Central", "year": 2018 },
+        {
+            "id": 461,
+            "author_id": 20,
+            "title": "Love in Another Language (Baska Dilde Ask)",
+            "year": 1998
+        },
+        {
+            "id": 462,
+            "author_id": 5,
+            "title": "Aftershock (Tangshan dadizhen)",
+            "year": 2016
+        },
+        {
+            "id": 463,
+            "author_id": 20,
+            "title": "Scent of a Woman (Profumo di donna)",
+            "year": 1958
+        },
+        {
+            "id": 464,
+            "author_id": 3,
+            "title": "Kevin Smith: Too Fat For 40",
+            "year": 1950
+        },
+        {
+            "id": 465,
+            "author_id": 16,
+            "title": "To the Shores of Tripoli",
+            "year": 1986
+        },
+        {
+            "id": 466,
+            "author_id": 18,
+            "title": "Broadway Melody, The",
+            "year": 1973
+        },
+        { "id": 467, "author_id": 4, "title": "Aerial Gunner", "year": 1990 },
+        {
+            "id": 468,
+            "author_id": 2,
+            "title": "Confiance règne, La",
+            "year": 1988
+        },
+        { "id": 469, "author_id": 3, "title": "Grand, The", "year": 1996 },
+        { "id": 470, "author_id": 1, "title": "Into the Night", "year": 1951 },
+        {
+            "id": 471,
+            "author_id": 6,
+            "title": "Steam Experiment, The",
+            "year": 2009
+        },
+        {
+            "id": 472,
+            "author_id": 1,
+            "title": "10th Victim, The (La decima vittima)",
+            "year": 1976
+        },
+        {
+            "id": 473,
+            "author_id": 8,
+            "title": "Theory of Everything, The",
+            "year": 2015
+        },
+        {
+            "id": 474,
+            "author_id": 18,
+            "title": "Tales from the Organ Trade",
+            "year": 1977
+        },
+        { "id": 475, "author_id": 12, "title": "Coldblooded", "year": 1958 },
+        { "id": 476, "author_id": 17, "title": "Rhyme & Reason", "year": 1972 },
+        {
+            "id": 477,
+            "author_id": 5,
+            "title": "Chasers, The (Jakten)",
+            "year": 2007
+        },
+        { "id": 478, "author_id": 4, "title": "Cotton Mary", "year": 1979 },
+        {
+            "id": 479,
+            "author_id": 1,
+            "title": "Times of Harvey Milk, The",
+            "year": 1979
+        },
+        {
+            "id": 480,
+            "author_id": 5,
+            "title": "Magic in the Water",
+            "year": 1957
+        },
+        {
+            "id": 481,
+            "author_id": 9,
+            "title": "Preston Sturges: The Rise and Fall of an American Dreamer",
+            "year": 1993
+        },
+        {
+            "id": 482,
+            "author_id": 9,
+            "title": "Fudoh: The New Generation (Gokudô sengokushi: Fudô)",
+            "year": 2009
+        },
+        {
+            "id": 483,
+            "author_id": 13,
+            "title": "Harry Potter and the Deathly Hallows: Part 1",
+            "year": 2008
+        },
+        {
+            "id": 484,
+            "author_id": 16,
+            "title": "Endgame: Blueprint for Global Enslavement",
+            "year": 2015
+        },
+        {
+            "id": 485,
+            "author_id": 18,
+            "title": "Bloodhounds of Broadway",
+            "year": 1974
+        },
+        {
+            "id": 486,
+            "author_id": 6,
+            "title": "Santa Clause, The",
+            "year": 2005
+        },
+        {
+            "id": 487,
+            "author_id": 8,
+            "title": "Prinsessa (Starring Maja)",
+            "year": 1960
+        },
+        {
+            "id": 488,
+            "author_id": 2,
+            "title": "Sweet Bunch (Glykia symmoria)",
+            "year": 2013
+        },
+        {
+            "id": 489,
+            "author_id": 16,
+            "title": "Remo Williams: The Adventure Begins",
+            "year": 1965
+        },
+        { "id": 490, "author_id": 14, "title": "Minus Man, The", "year": 1952 },
+        {
+            "id": 491,
+            "author_id": 14,
+            "title": "Three on a Match",
+            "year": 2006
+        },
+        { "id": 492, "author_id": 6, "title": "Death Warrant", "year": 1986 },
+        { "id": 493, "author_id": 8, "title": "I Want You", "year": 1995 },
+        {
+            "id": 494,
+            "author_id": 9,
+            "title": "Three Faces of Eve, The",
+            "year": 1951
+        },
+        {
+            "id": 495,
+            "author_id": 19,
+            "title": "Lumihiutalemuodostelma",
+            "year": 1989
+        },
+        { "id": 496, "author_id": 2, "title": "Another Woman", "year": 1967 },
+        {
+            "id": 497,
+            "author_id": 11,
+            "title": "Getting It Right",
+            "year": 1960
+        },
+        {
+            "id": 498,
+            "author_id": 7,
+            "title": "Man Who Knew Too Much, The",
+            "year": 1984
+        },
+        {
+            "id": 499,
+            "author_id": 14,
+            "title": "Behind Enemy Lines: Colombia (Behind Enemy Lines 3: Ghost Watch)",
+            "year": 2016
+        },
+        { "id": 500, "author_id": 3, "title": "Broken", "year": 1985 }
+    ]
+}

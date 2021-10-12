@@ -1,0 +1,130 @@
+<header
+    class="
+        bg-blue-500
+        h-20
+        w-full
+        flex
+        justify-center
+        items-center
+        sticky
+        top-0
+        bookstore-header
+    "
+>
+    <h1 class="text-white font-bold text-5xl">BOOKSTORE</h1>
+</header>
+
+<div class="min-h-screen">
+    <section class="grid gap-4 w-1/2 mx-auto pt-10">
+        <ng-container *ngIf="nationalities.length">
+            <div class="flex justify-end pb-2">
+                <button
+                    pButton
+                    type="button"
+                    label="Reset"
+                    (click)="setInitialValues()"
+                ></button>
+            </div>
+            <div class="pb-2">Select nationality:</div>
+            <p-dropdown
+                placeholder="Nationality"
+                [options]="nationalities"
+                styleClass="w-full"
+                [(ngModel)]="selectedNationality"
+                (onChange)="onSelectedNationality()"
+            ></p-dropdown>
+        </ng-container>
+        <div class="authors-table-wrapper">
+            <div class="flex justify-center pb-4">
+                <span class="p-input-icon-left p-ml-auto">
+                    <i class="pi pi-search"></i>
+                    <input
+                        [disabled]="activeAuthor !== undefined"
+                        pInputText
+                        type="text"
+                        placeholder="Search"
+                        [(ngModel)]="authorsSearch"
+                        (input)="resolveFiltering()"
+                        (ngModelChange)="resolveFiltering()"
+                    />
+                </span>
+            </div>
+            <p-table
+                #authorsTable
+                [value]="currentAuthors"
+                [paginator]="true"
+                [rows]="5"
+                [rowsPerPageOptions]="[5, 10]"
+            >
+                <ng-template pTemplate="header">
+                    <tr>
+                        <th *ngFor="let header of headers.authors">
+                            {{ header }}
+                        </th>
+                    </tr>
+                </ng-template>
+                <ng-template pTemplate="body" let-author>
+                    <ng-container *ngIf="currentAuthors.length">
+                        <tr
+                            [ngClass]="
+                                activeAuthor?.id === author.id
+                                    ? 'bg-red-400'
+                                    : ''
+                            "
+                        >
+                            <td>{{ author.id }}</td>
+                            <td>{{ author.name }}</td>
+                            <td>{{ author.nationality }}</td>
+                            <td
+                                class="cursor-pointer"
+                                (click)="clickBookCount(author)"
+                            >
+                                {{ author.bookCount }}
+                            </td>
+                        </tr>
+                    </ng-container>
+                </ng-template>
+            </p-table>
+        </div>
+        <div class="books-table-wrapper">
+            <div class="flex justify-center pb-4">
+                <span class="p-input-icon-left p-ml-auto">
+                    <i class="pi pi-search"></i>
+                    <input
+                        pInputText
+                        type="text"
+                        placeholder="Search"
+                        (input)="resolveFiltering()"
+                        [(ngModel)]="booksSearch"
+                    />
+                </span>
+            </div>
+            <p-table
+                #booksTable
+                [value]="currentBooks"
+                [paginator]="true"
+                [rows]="5"
+                [rowsPerPageOptions]="[5, 10]"
+            >
+                <ng-template pTemplate="header">
+                    <tr>
+                        <th *ngFor="let header of headers.books">
+                            {{ header }}
+                        </th>
+                    </tr>
+                </ng-template>
+                <ng-template pTemplate="body" let-book>
+                    <ng-container *ngIf="currentBooks.length">
+                        <tr>
+                            <td>{{ book.id }}</td>
+                            <td>{{ book.author_id }}</td>
+                            <td>{{ book.title }}</td>
+                            <td>{{ book.year }}</td>
+                        </tr>
+                    </ng-container>
+                </ng-template>
+            </p-table>
+        </div>
+    </section>
+</div>
+<footer class="pt-20"></footer>
