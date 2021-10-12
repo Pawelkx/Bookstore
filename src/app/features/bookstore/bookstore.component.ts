@@ -79,17 +79,13 @@ export class BookstoreComponent {
     resolveFiltering() {
         // needed for dynamic changing of input data (otherwise view would render on page prior to searching)
         this.setFirstRowForTables();
-        if (!this.activeAuthor) {
-            // Nationality
-            this.resolveNationality();
-            // Authors
-            this.resolveAuthors();
-            // Books
-            this.resolveBooks();
-            return;
-        }
-        // if there is an active author, we should only resolve books, because authors remain unchanged
+        // Nationality
+        this.resolveNationality();
+        // Authors
+        this.resolveAuthors();
+        // Books
         this.resolveBooks();
+        this.activeAuthor = undefined;
     }
 
     resolveBooks() {
