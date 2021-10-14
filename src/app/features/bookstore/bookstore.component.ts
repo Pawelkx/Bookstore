@@ -16,6 +16,11 @@ export class BookstoreComponent {
     @ViewChild('authorsTable') authorsTable!: Table;
     @ViewChild('booksTable') booksTable!: Table;
 
+    resolverData!: {
+        authors: Author[];
+        books: Book[];
+    };
+
     nationalities!: Nationality[];
     selectedNationality!: string;
     headers = headers;
@@ -33,18 +38,26 @@ export class BookstoreComponent {
 
     constructor(private readonly route: ActivatedRoute) {}
 
-    async ngOnInit() {
+    ngOnInit() {
         // get initial data from API
-        this.allBooks = this.route.snapshot.data['books'];
-        this.mapAuthors();
-        this.getNationalities();
-        // set initial current data for tables
+        this.resolverData = {
+            authors: this.route.snapshot.data['authors'],
+            books: this.route.snapshot.data['books'],
+        };
+
+        // map API data response to component table format
+        this.allBooks = this.resolverData.books;
+        this.allAuthors = this.mapAuthors(this.resolverData.authors);
+
+        // get nationalities based on authors
+        this.nationalities = this.getNationalities(this.allAuthors);
+
+        // set initial data for tables
         this.setInitialValues();
     }
 
-    mapAuthors() {
-        const authors = this.route.snapshot.data['authors'];
-        this.allAuthors = authors.map((author: Author) => {
+    mapAuthors(authors: Author[]): TableAuthor[] {
+        return authors.map((author: Author) => {
             return {
                 ...author,
                 name: `${author.first_name} ${author.last_name}`,
@@ -55,9 +68,9 @@ export class BookstoreComponent {
         });
     }
 
-    getNationalities() {
-        this.nationalities = sortBy(
-            uniqBy(this.allAuthors, `nationality`).map((author) => {
+    getNationalities(authors: TableAuthor[]): Nationality[] {
+        const nationalities = sortBy(
+            uniqBy(authors, `nationality`).map((author) => {
                 return {
                     label: author.nationality,
                     value: author.nationality,
@@ -65,10 +78,13 @@ export class BookstoreComponent {
             }),
             `value`
         );
-        this.nationalities.unshift({
+
+        nationalities.unshift({
             label: `Any`,
             value: `Any`,
         });
+
+        return nationalities;
     }
 
     onSelectedNationality() {

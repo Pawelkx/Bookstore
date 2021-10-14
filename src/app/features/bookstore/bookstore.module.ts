@@ -1,6 +1,5 @@
 import { AuthorsResolver } from './../../resolvers/bookstore-authors.resolver';
 import { BooksResolver } from './../../resolvers/bookstore-books.resolver';
-import { BookstoreApiService } from './../../shared/services/bookstore-api.service';
 import { BookstoreComponent } from './bookstore.component';
 import { ButtonModule } from 'primeng/button';
 import { CommonModule } from '@angular/common';
@@ -30,6 +29,5 @@ const primeng = [DropdownModule, TableModule, InputTextModule, ButtonModule];
         ]),
     ],
     declarations: [BookstoreComponent],
-    providers: [BookstoreApiService],
 })
 export class BookstoreModule {}
